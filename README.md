@@ -26,8 +26,6 @@
 | :--- | :--- |
 | [**qa_guru_40_HW**](https://github.com/agzamovQA/qa_guru_40_HW) | Домашние задания по автоматизации тестирования на Java. UI-тесты для [DemoQA](https://demoqa.com) с использованием Selenide, JUnit, DataFaker, Allure и Page Object Model. |
 
-> 💡 **Больше проектов вы найдёте в закреплённых репозиториях ниже ↓**
-
 ---
 
 ### 📫 Мои контакты:
@@ -36,3 +34,5 @@
 [![Email](https://img.shields.io/badge/-Yandex.Mail-FF0000?style=flat-square&logo=yandex&logoColor=white)](mailto:agzamov.qa@yandex.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agzamovQA)
 ---
+> 💡 **Больше проектов вы найдёте в закреплённых репозиториях ниже ↓**
+> 
