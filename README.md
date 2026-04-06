@@ -29,10 +29,9 @@
 ---
 
 ### 📫 Мои контакты:
+[![Telegram](https://img.shields.io/badge/-@agzamovQA-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/agzamovQA)
+[![Email](https://img.shields.io/badge/-agzamov.qa@yandex.ru-FF0000?style=flat-square&logo=yandex&logoColor=white)](mailto:agzamov.qa@yandex.ru)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/agzamovqa)
-[![Email](https://img.shields.io/badge/-Yandex.Mail-FF0000?style=flat-square&logo=yandex&logoColor=white)](mailto:agzamov.qa@yandex.ru)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agzamovQA)
 ---
 > 💡 **Больше проектов вы найдёте в закреплённых репозиториях ниже ↓**
 > 
